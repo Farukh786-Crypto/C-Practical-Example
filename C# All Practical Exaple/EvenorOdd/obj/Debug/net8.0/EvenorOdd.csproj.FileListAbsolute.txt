@@ -1,0 +1,14 @@
+D:\Development\CURRENT\c# Exercise\C-Practical-Example\C# All Practical Exaple\EvenorOdd\bin\Debug\net8.0\EvenorOdd.exe
+D:\Development\CURRENT\c# Exercise\C-Practical-Example\C# All Practical Exaple\EvenorOdd\bin\Debug\net8.0\EvenorOdd.deps.json
+D:\Development\CURRENT\c# Exercise\C-Practical-Example\C# All Practical Exaple\EvenorOdd\bin\Debug\net8.0\EvenorOdd.runtimeconfig.json
+D:\Development\CURRENT\c# Exercise\C-Practical-Example\C# All Practical Exaple\EvenorOdd\bin\Debug\net8.0\EvenorOdd.dll
+D:\Development\CURRENT\c# Exercise\C-Practical-Example\C# All Practical Exaple\EvenorOdd\bin\Debug\net8.0\EvenorOdd.pdb
+D:\Development\CURRENT\c# Exercise\C-Practical-Example\C# All Practical Exaple\EvenorOdd\obj\Debug\net8.0\EvenorOdd.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\CURRENT\c# Exercise\C-Practical-Example\C# All Practical Exaple\EvenorOdd\obj\Debug\net8.0\EvenorOdd.AssemblyInfoInputs.cache
+D:\Development\CURRENT\c# Exercise\C-Practical-Example\C# All Practical Exaple\EvenorOdd\obj\Debug\net8.0\EvenorOdd.AssemblyInfo.cs
+D:\Development\CURRENT\c# Exercise\C-Practical-Example\C# All Practical Exaple\EvenorOdd\obj\Debug\net8.0\EvenorOdd.csproj.CoreCompileInputs.cache
+D:\Development\CURRENT\c# Exercise\C-Practical-Example\C# All Practical Exaple\EvenorOdd\obj\Debug\net8.0\EvenorOdd.dll
+D:\Development\CURRENT\c# Exercise\C-Practical-Example\C# All Practical Exaple\EvenorOdd\obj\Debug\net8.0\refint\EvenorOdd.dll
+D:\Development\CURRENT\c# Exercise\C-Practical-Example\C# All Practical Exaple\EvenorOdd\obj\Debug\net8.0\EvenorOdd.pdb
+D:\Development\CURRENT\c# Exercise\C-Practical-Example\C# All Practical Exaple\EvenorOdd\obj\Debug\net8.0\EvenorOdd.genruntimeconfig.cache
+D:\Development\CURRENT\c# Exercise\C-Practical-Example\C# All Practical Exaple\EvenorOdd\obj\Debug\net8.0\ref\EvenorOdd.dll
